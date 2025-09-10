@@ -1,5 +1,5 @@
 # Reading_XDF_files
-## Check XDF Alignment
+## CheckXDFAlignment.py
 ### Packages needed to run this script
 1. [pyxdf](https://github.com/xdf-modules/pyxdf)
 2. [matplotlib](https://matplotlib.org/stable/install/index.html)
